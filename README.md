@@ -16,7 +16,7 @@
 
 > Add Player to Whitelist
 
-> Revoke Player from whitelist
+> Revoke Player from Whitelist
 
 > Ban User
 
