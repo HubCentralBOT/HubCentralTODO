@@ -1,5 +1,7 @@
 # Hub Central To Do List
 
+- Here you can see our progress on some new features. This can update at any time so keep updated!
+
 > Create Base (Command Handler, Slash Commands, etc)
 
 > Setup Command
